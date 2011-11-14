@@ -1,0 +1,46 @@
+	#jsddm
+{	margin: 0;
+	padding: 0}
+	
+	#jsddm li
+	{	float: left;
+		list-style: none;}
+
+	#jsddm li a
+	{	display: block;
+		font-weight: bold;
+		padding: 2px 10px;
+		text-decoration: none;
+		border-right: 2px solid white;
+		color: white;
+		white-space: nowrap}
+
+	#jsddm li a:hover
+	{	border-bottom: none; color: #030; }
+		
+		#jsddm li ul
+		{	margin: 0;
+			padding: 0;
+			padding-top: 8px;
+			position: absolute;
+			visibility: hidden;}
+		
+		#jsddm li ul li
+		{	float: none;
+			display: inline
+			}
+		
+		#jsddm li ul li a
+		{	width: auto;
+			background: #58CF6A;
+			border-right: 1px dotted #165A2B;
+			border-left: 1px dotted #165A2B;
+			border-bottom: 1px dotted #165A2B;
+			border-top: none;
+			color: white;
+			padding: 5px;
+			text-align: left;
+			width:100px;}
+		
+		#jsddm li ul li a:hover
+		{ /*background: #3AAB4F;*/ border-bottom: 1px dotted; color: #030; }

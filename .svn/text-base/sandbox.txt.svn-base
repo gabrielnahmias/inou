@@ -1,0 +1,195 @@
+cleared|192.168.1.1|Gabriel Nahmias|1288566995
+<em>fun times</em>|192.168.1.1|Gabriel Nahmias|1288567177
+<?php $a=array('','',''); print count($a); ?>|192.168.1.1|Gabriel Nahmias|1288573771
+<?php $a=array('','',''); print count($a); ?>|192.168.1.1|Gabriel Nahmias|1288573810
+asd|192.168.1.1|Gabriel Nahmias|1288573813
+Enter something here|192.168.1.1|Gabriel Nahmias|1288573815
+Enter something here|192.168.1.1|Gabriel Nahmias|1288573817
+Enter something here|192.168.1.1|Gabriel Nahmias|1288573822
+User::Logout();|192.168.1.1|Gabriel Nahmias|1288573844
+<?php User::Logout(); ?>|192.168.1.1|Gabriel Nahmias|1288573856
+well, filet this...(.)|75.64.88.110|Rob Sellmansberger|1288593835
+filet?|192.168.1.1|Gabriel Nahmias|1288594937
+filet a boob?|192.168.1.1|Gabriel Nahmias|1288595002
+<b>so</b>, does anyone have any ideas as to what features this thing should have?|192.168.1.1|Gabriel Nahmias|1288595160
+<u>negros</u>|168.7.243.119|Smith Smight|1288680455
+<button type="button">Eeville.</button>|168.7.243.119|Smith Smight|1288680487
+haha you just got on here|192.168.1.1|Gabriel Nahmias|1288680638
+once i get the chat thing figured out i think this thing will take off|192.168.1.1|Gabriel Nahmias|1288680653
+<input type="button" value="Eeville 2." onClick='alert("Dead niggas.")'>|168.7.243.119|Smith Smight|1288680736
+yee|168.7.243.119|Smith Smight|1288680773
+OK, Mr. Smight, you're semi-publicly crossing the racial threshold.  AND you're mixing it in with some rather dastardly code.  filter() might have to be combined with a filter_racism() call.|192.168.1.1|Gabriel Nahmias|1288681046
+JavaSkurr alerts are classy. And it's not racism, just a bit o' affirmative_action(diversity).|168.7.243.119|Smith Smight|1288681273
+We should have real-time text streaming like Google Instant.|168.7.243.119|Smith Smight|1288681321
+you mean like google wave?|192.168.1.1|Gabriel Nahmias|1288681378
+im like actively coding this page as we speak|192.168.1.1|Gabriel Nahmias|1288681408Yeah, although Wave was probably more complex than what we'll need...|168.7.243.119|Smith Smight|1288681541
+Twas briefly d0wn.|168.7.243.119|Smith Smight|1288681693
+Also, in unrelated news, <input type="button" value="btstack for iPhone" onclick="window.location.href='http://code.google.com/p/btstack/source/browse/'"> is arcane and terrible.|168.7.243.119|Smith Smight|1288681863
+now it only displays the first five posts.. adding links for continuing.|192.168.1.1|Gabriel Nahmias|1288681910
+Github's the best public repository system, but we still need something to remotely force a server code update. Byethost supports php/mysql but has poor latency.|168.7.249.22|Smith Smight|1288682669
+Cookies work properly. Nice!|168.7.249.22|Smith Smight|1288682985
+i know they do.  dont call my code into question young bitchwalka|192.168.1.1|Gabriel Nahmias|1288683358
+there.. a nice consolidated page-like feature.  WHAT SHOULD I WORK ON NOW???|192.168.1.1|Gabriel Nahmias|1288684718
+are we archiving changes to source just for the sake of having a regular cache of it?  not just landmarks right?|192.168.1.1|Gabriel Nahmias|1288684906
+I was thinking more along the lines of having a repository where I can work on stuff in real time (motivational); I got a semi-recent version of the site running locally under apache without the user db, but we should avoid branching because it complicates stuff.|168.7.249.22|Smith Smight|1288685373
+Enter something here|192.168.1.1|Gabriel Nahmias|1288685421
+Interesting. Both of the comments below were just posted in the same box but it parsed the newline.|168.7.249.22|Smith Smight|1288685433
+this thing is read from a file line by line so any newline character acts as a new post... kind of shoddy i guess.  i shouldve made the posts separate files.|192.168.1.1|Gabriel Nahmias|1288685695
+ill just filter newline characters|192.168.1.1|Gabriel Nahmias|1288685711
+test|192.168.1.1|Gabriel Nahmias|1288685717
+asdaskmdl|192.168.1.1|Gabriel Nahmias|1288685758
+asd|192.168.1.1|Gabriel Nahmias|1288685802
+test|192.168.1.1|Gabriel Nahmias|1288685825
+test|192.168.1.1|Gabriel Nahmias|1288685834
+tons of posts deleted|192.168.1.1|Gabriel Nahmias|1288687195
+do you like my little nav feature?|192.168.1.1|Gabriel Nahmias|1288687212
+yee, tis coo|168.7.249.22|Smith Smight|1288687225
+most people dont type pipe characters do they?|192.168.1.1|Gabriel Nahmias|1288687318
+maybe i should tokenize it with a long string of random gibberish|192.168.1.1|Gabriel Nahmias|1288687336
+nav only took about 15 minutes to conceptualize and implement.. however i would like the variable in GET to be less.. odd and more like an actual page number.  and not able to be manipulated|192.168.1.1|Gabriel Nahmias|1288687397
+not likely but it shouldn't really parse the string; the input box should cut off after a certain number of characters or something|168.7.249.22|Smith Smight|1288687502
+i'm trying to think of ways to do it without allowing possibility of buffer overflow |168.7.249.22|Smith Smight|1288687529
+i think ill let strings be whatever they want but i can restrict the amount of characters simply with a maxlength=100 tag or something|192.168.1.1|Gabriel Nahmias|1288687621
+im trying to figure out how to make this sandbox autoupdate.. itd be a task.|192.168.1.1|Gabriel Nahmias|1288687692
+i was considering that but it'll be more complicated, that can be added over time|168.7.249.22|Smith Smight|1288687782
+this sandbox shouldnt be a central feature of this system.. should it?|192.168.1.1|Gabriel Nahmias|1288688294
+nah but good for testing|168.7.249.22|Smith Smight|1288688377
+also in the process im reteaching myself many concepts ill have to perfect later|192.168.1.1|Gabriel Nahmias|1288688445
+ajaxpatterns.org looks like the best site for http streaming info but it's not directly applicable|168.7.249.22|Smith Smight|1288688605
+i'm going to get dreamweaver wednesday [once my weekly bs is over] and start helping for real (even though my visual web design talent is abominable); maybe try to get file transfer going.|168.7.249.22|Smith Smight|1288688692
+We should definitely figure out the repository thing before then, though.|168.7.249.22|Smith Smight|1288688707
+Sandbox should be restricted to you, tsoftinc@gmail.com, and gdewit@gmail.com, once I've added that account.|168.7.249.22|Smith Smight|1288688847
+Sandbox link should be hidden for everyone else.|168.7.249.22|Smith Smight|1288688920
+thats perfectly doable i just wanted a cool page for people to mess around|192.168.1.1|Gabriel Nahmias|1288689455
+smilies are about to work.. hee hee|192.168.1.1|Gabriel Nahmias|1288689466
+Let's make this Terrasoft's original flagship product. We'll have to resurrect the Terrasoft site at some point.|168.7.249.22|Smith Smight|1288689625
+:)|168.7.249.22|Smith Smight|1288689785
+not yet give me one second..|192.168.1.1|Gabriel Nahmias|1288689873
+AND...by the time we debut, we'll offer the opportunity to import info from facebook automatically and connect to corresponding inou friends|168.7.249.22|Smith Smight|1288689909
+It's really easy to get info from the graph API, and with FB OAuth we can get all the info we need.|168.7.249.22|Smith Smight|1288689982
+Enter something here|168.7.249.22|Smith Smight|1288689988
+:D|192.168.1.1|Gabriel Nahmias|1288690084
+?)|192.168.1.1|Gabriel Nahmias|1288690251
+:?|192.168.1.1|Gabriel Nahmias|1288690317
+:<|192.168.1.1|Gabriel Nahmias|1288690357
+:|168.7.249.22|Smith Smight|1288690512
+it didn't like the pipe in the emoticon|168.7.249.22|Smith Smight|1288690542
+:0|168.7.249.22|Smith Smight|1288690556
+yeah i said fuck you pipe chars|192.168.1.1|Gabriel Nahmias|1288690576
+:O :0|192.168.1.1|Gabriel Nahmias|1288690586
+:I|192.168.1.1|Gabriel Nahmias|1288690621
+(<.<)|168.7.249.22|Smith Smight|1288690640
+want me to add weird smilies?|192.168.1.1|Gabriel Nahmias|1288690681
+<=8|168.7.249.22|Smith Smight|1288690687
+cause i think thatd be fun ;)|192.168.1.1|Gabriel Nahmias|1288690693
+=]:-)=|168.7.249.22|Smith Smight|1288690710
+we should set early january as a target release date for some kind of prototype|168.7.249.22|Smith Smight|1288690849
+i really dont know what this should be.. i guess a social network?|192.168.1.1|Gabriel Nahmias|1288690899
+my first challenge is implementing an ajax version of this.. it could be like twitter and anyone could see whatever anyone else sends.. maybe i should work on an inbox feature first.|192.168.1.1|Gabriel Nahmias|1288690982
+i guess, but it will have to offer stuff that motivates people to switch. It COULD be an advanced, easily-extendable social network, but I'd prefer the target audience to be the same people who are on facebook. |168.7.249.22|Smith Smight|1288690997
+wed make the most kaching that way and maybe enough would notice to alert some company to buy it|192.168.1.1|Gabriel Nahmias|1288691078
+what browser are you using?|192.168.1.1|Gabriel Nahmias|1288691224
+We need to look into last.fm and see how it would mesh with Pandora's algorithms.|168.7.249.22|Smith Smight|1288691347
+chrome, nigga [as the UserAgent string should indicate]|168.7.249.22|Smith Smight|1288691390
+chrome lets you resize textareas eh.. looks almost better in this browser.|192.168.1.1|Gabriel Nahmias|1288691538
+New IP test|168.7.249.81|Smith Smight|1288691547
+and i could MAKE your user agent string appear.  what do you speak of?|192.168.1.1|Gabriel Nahmias|1288691570
+ha.. here ill scare you even more|192.168.1.1|Gabriel Nahmias|1288691605
+i abused my geolocation service.. nvm then damn :( check it http://www.ip2location.com/demo.aspx?ip=168.7.249.81|192.168.1.1|Gabriel Nahmias|1288691967
+url test http://www.fudge.com|192.168.1.1|Gabriel Nahmias|1288693081
+ok, so now you can type in urls and they auto-link and theres smilies.. woo boy|192.168.1.1|Gabriel Nahmias|1288693405
+www.jews.com|192.168.1.1|Gabriel Nahmias|1288693416
+Enter something here|192.168.1.1|Gabriel Nahmias|1288693827
+networksolutions forwarding blows|192.168.1.1|Gabriel Nahmias|1288694627
+better than godaddy forwarding...|168.7.243.10|Smith Smight|1288756455
+>( we need a solution that retains our title and favicon.. just looks professional.  AND it doesnt link to the sub-pages it just keeps the static inou.co|192.168.1.1|Gabriel Nahmias|1288762393
+Enter something here|192.168.1.1|Gabriel Nahmias|1288762453
+I'm not sure what godaddy's policies are, but they were mega-inconsistent with one domain I registered. Half the time the forward failed.|168.7.243.10|Smith Smight|1288770290
+NS would work but we'd have to buy their hosting package.|168.7.243.10|Smith Smight|1288770322
+<img src="http://i1221.photobucket.com/albums/dd467/Jgilmore88/mcdonalds_ghetto_car.jpg" width="200" height="150">|168.7.242.172|Smith Smight|1288826912
+Fail below.|168.7.242.172|Smith Smight|1288826933
+<img src="http://i1221.photobucket.com/albums/dd467/Jgilmore88/mcdonalds_ghetto_car.jpg">|168.7.242.172|Smith Smight|1288826956
+wtf|168.7.242.172|Smith Smight|1288826960
+<IMG src="http://www.auburntron.com/wp-content/uploads/2008/06/mcdonalds_ghetto_car.jpg">|168.7.242.172|Smith Smight|1288827012
+OK something's definitely fucked up with the parsing, those are all correct image tags|168.7.242.172|Smith Smight|1288827036
+<img src="fake.gif">|168.7.242.172|Smith Smight|1288827114
+<img src="http://www.auburntron.com/wp-content/uploads/2008/06/mcdonalds_ghetto_car.jpg">|168.7.242.172|Smith Smight|1288827149
+it's inserting A HREF or some bullshit|168.7.242.172|Smith Smight|1288827166
+http://death.com|168.7.242.172|Smith Smight|1288827199
+www.blah.com|168.7.242.172|Smith Smight|1288827218
+<img src="www.auburntron.com/wp-content/uploads/2008/06/mcdonalds_ghetto_car.jpghttp://www.auburntron.com/wp-content/uploads/2008/06/mcdonalds_ghetto_car.jpg">|168.7.242.172|Smith Smight|1288827234
+<img src="www.fuck.com/death">|168.7.242.172|Smith Smight|1288827369
+http://www.auburntron.com/wp-content/uploads/2008/06/mcdonalds_ghetto_car.jpg|168.7.242.172|Smith Smight|1288827386
+http://www.auburntron.com/wp-content/uploads/2008/|168.7.242.172|Smith Smight|1288827489
+Ah I understand, it's parsing 8 / (without space) as an emoticon.|168.7.242.172|Smith Smight|1288827527
+8/|168.7.242.172|Smith Smight|1288827531
+8\|168.7.242.172|Smith Smight|1288827565
+8:/|168.7.242.172|Smith Smight|1288827575
+8&#47;|168.7.242.172|Smith Smight|1288827792
+http:/|168.7.242.172|Smith Smight|1288827826
+http://|168.7.242.172|Smith Smight|1288827829
+http://blah.com|168.7.242.172|Smith Smight|1288827834
+http://asdf|168.7.242.172|Smith Smight|1288827840
+http://a|168.7.242.172|Smith Smight|1288827851
+htt&#112://sadf|168.7.242.172|Smith Smight|1288827891
+<img src="htt&#112://www.auburntron.com/wp-content/uploads/200&#56/06/mcdonalds_ghetto_car.jpg">|168.7.242.172|Smith Smight|1288827973
+ha finally|168.7.242.172|Smith Smight|1288827980
+had to use fucking escape characters|168.7.242.172|Smith Smight|1288828000
+http://test.com/8/blah|168.7.242.172|Smith Smight|1288828698
+here ill fix it.  and btw you can only output a link, not link images i dont believe|192.168.1.1|Gabriel Nahmias|1288837451
+hey, get some of your friends on here.|192.168.1.1|Gabriel Nahmias|1288838199
+http://test.com/8|168.7.242.172|Smith Smight|1288844018
+http://www.test.com/8/blah|168.7.242.172|Smith Smight|1288844029
+<img src="http://www.foo.com/bar/8/blah.gif">|168.7.242.172|Smith Smight|1288844059
+8/|168.7.242.172|Smith Smight|1288844089
+IMG tag including a URL prefixed by http:// still gets interpreted with A HREF, but i guess we don't expect people to use tags.|168.7.242.172|Smith Smight|1288844211
+www.blah.com|168.7.242.172|Smith Smight|1288844747
+Terrasoft Pawn, TSPawn, or Terrapawn?|168.7.242.172|Smith Smight|1288866632
+or terraspawn|168.7.242.172|Smith Smight|1288866645
+Enter something here|168.7.242.172|Smith Smight|1288866646
+forget the pawn moniker.. we need a professional name to get on the market.|192.168.1.1|Gabriel Nahmias|1288910973
+"http://www.com.com|192.168.1.1|Gabriel Nahmias|1288911057
+"http://www.com.com"|192.168.1.1|Gabriel Nahmias|1288911978
+[http://www.com.com]|192.168.1.1|Gabriel Nahmias|1288912485
+]|192.168.1.1|Gabriel Nahmias|1288912703fixed link problem.. use &#91;link&#93;URL&#91;/link&#93;|192.168.1.1|Gabriel Nahmias|1288913225
+fixed link problem.. use &#91;link&#93;URL&#91;/link&#93;|192.168.1.1|Gabriel Nahmias|1288913250
+[link]www.aol.com[/link]|192.168.1.1|Gabriel Nahmias|1288913311
+[link]www.aol.com[/link]|192.168.1.1|Gabriel Nahmias|1288913328
+<img src="" />|192.168.1.1|Gabriel Nahmias|1288913844
+[link]http://www.aol.com[/link]|192.168.1.1|Gabriel Nahmias|1288914138
+{}[]|192.168.1.1|Gabriel Nahmias|1288937635
+doo dooooooooooo dooo|192.168.1.1|Gabriel Nahmias|1289007950
+fuckety nig|168.7.248.173|Smith Smight|1289120427
+watch my censorship power...|192.168.1.1|Gabriel Nahmias|1289125955
+this also differentiates between ass and a similar occurrence such as pass|192.168.1.1|Gabriel Nahmias|1289128276
+turns out censorship failed miserably for some weird reason.|192.168.1.1|Gabriel Nahmias|1289175326
+now smilies must be their own word :) for example (cool mane:).|192.168.1.1|Gabriel Nahmias|1289178996
+[link]http://174.50.6.35/inou/profile.php[/link] is underway|192.168.1.1|Gabriel Nahmias|1289181393
+We should definitely set this up: http://www.adobe.com/devnet/dreamweaver/articles/using_subversion_pt2.htmlHowever, still not sure about the best solution for automatically updating the ACTUAL site.|168.7.241.63|Smith Smight|1289274142
+Link issues|168.7.241.63|Smith Smight|1289274152
+http://www.adobe.com/devnet/dreamweaver/articles/using_subversion_pt2.html|168.7.241.63|Smith Smight|1289274155
+<link>http://www.adobe.com/devnet/dreamweaver/articles/using_subversion_pt2.html</link>|168.7.241.63|Smith Smight|1289274164
+<a href="http://www.adobe.com/devnet/dreamweaver/articles/using_subversion_pt2.html">http://www.adobe.com/devnet/dreamweaver/articles/using_subversion_pt2.html</a>|168.7.241.63|Smith Smight|1289274205
+god im a lazy POS|192.168.1.1|Gabriel Nahmias|1289369504
+burgsteinbaumsky|168.7.247.138|Smith Smight|1289375014
+muahahaha|168.7.247.138|Smith Smight|1289375057
+laaaazyy|192.168.1.1|Gabriel Nahmias|1289572602
+what da bidness is|168.7.254.99|Smith Smight|1289600392
+i really dont know what to implement from here... i mean theres the standard social network design..|192.168.1.1|Gabriel Nahmias|1289753443
+special new navigation|192.168.1.1|Gabriel Nahmias|1289835068
+profile page structure founded..|192.168.1.1|Gabriel Nahmias|1289847283
+test|192.168.1.1|1|1290001608
+old names are now GOONE.. make way for profile linkage..|192.168.1.1|1|1290001695
+MUST...BE...PRODUCTIVE|168.7.244.13|2|1290068267
+seriously, i've gotten nothing done since august.|168.7.244.13|2|1290068284
+read the text i sent...i think that's by far my best idea yet. let me know what you think.|168.7.245.2|2|1290080330
+blargh|168.7.243.46|2|1290239639
+you can now upload a profile picture.. i still need to perfect the technique which i used but it looks pretty good.|192.168.1.1|1|1290267665
+test from mac|192.168.1.1|1|1290288057
+todo:<br>1. change color of lightbox<br>2. add function in User class or code for checking if the current user is the one viewing the page so you can disable the upload profile picture link<br>3. change height or overflow of upload colorbox so no scrollbars appear<br>4. make newlines <br /> in sandbox and i cant remember the rest|192.168.1.1|1|1290289205
+im douglas|192.168.1.1|7|1291453288
+IM A <B>FAT NIGGER</b>|192.168.1.1|1|1291780345
+BIG HAIRY <I>BLACK</I> ASSHOLE FILLED WITH SHIT AND <B>FUCKASS</b>|127.0.0.1|1|1295829883
+Iphone|166.205.13.218|1|1297313048
+big fat  BLACK FUYCJKAJHGYUW$It <b>FUCK</b> ass fuck <i>NIG</i>|127.0.0.1|1|1299044630
+testing|76.109.161.15|1|1304589055

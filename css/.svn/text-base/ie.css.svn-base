@@ -1,0 +1,6 @@
+#header {
+	margin-bottom: -3px;
+	padding-bottom: 0px;
+}
+
+ul.dropdown ul li { display: inline; width: 100%; } 

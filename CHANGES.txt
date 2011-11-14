@@ -1,0 +1,4 @@
+v0.0.3 - + Changed #regmsg to #msg.
+
+v0.0.2 - + Most features working...
+	 + Need to perfect certain areas but otherwise pretty solid release.

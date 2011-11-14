@@ -1,0 +1,63 @@
+#copyright { margin-top: 50px; }
+
+#header {
+	border-bottom: 1px solid #165A2B;
+	color: white;
+	left: 0;
+	padding:0;
+	position:fixed;
+	top: 0;
+	width: 100%;
+	z-index: 2000;
+}
+
+#logo { float: left; margin-left:10%;
+	padding: 8px 0px 8px 0px; }
+
+#llink { display: block; padding: 5px; text-align: center; }
+#lpane { float: left; margin: 0 30px 30px 0; }
+
+#lpane img { max-width: 200px; }
+
+#middle {
+	background: white;
+	height:auto;
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-top: 20px;
+	text-align: left;
+}
+
+#sandbox {
+	background: #F5B3FD;
+	border: 1px solid #939;
+	font-size: 12pt;
+	margin-top: 5px;
+	margin-bottom: -30px;
+	padding-bottom: 20px;
+	width: 500px;
+}
+
+#sandbox img {
+	max-width: 400px;
+}
+
+#tools {
+	background: #58CF6A;
+	border: 1px dotted #030;
+	border-bottom: none;
+	float: right;
+	margin-right: 10%;
+	margin-top: 6px;
+	padding: 8px 0px 8px 0px;
+}
+
+#tinynav { font-weight: bold; font-size: 15pt; margin-top: 30px; text-align: center; width: 430px; }
+#tinynav a:hover { border: 0; color: red; font-style: italic; }
+
+.name { font-size: 18pt; font-weight: bold; }
+
+.previous { margin-right: 300px; }
+
+.post { display: block; margin: 15px; }
+.time { display: block; font-size: 7pt; font-style: italic; width: 185px; }
