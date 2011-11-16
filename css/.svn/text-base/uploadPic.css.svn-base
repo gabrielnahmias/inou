@@ -1,4 +1,0 @@
-.uploadPic { position: relative; margin: 0 auto; display: block; }
-.uploadText { position: absolute; top: 0; right: 0; padding: 5px; vertical-align: middle; background: white; border: 1px solid green; border-top: none; border-right: none; color: #000; visibility: hidden; }
-.uploadText a { color: green; }
-.uploadPic:hover .uploadText { visibility: visible; }
